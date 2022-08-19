@@ -5,3 +5,6 @@ Project này được làm theo yêu cầu cuộc thi trên Kaagle: https://www.
 ##Kết quả:
 
 Score: 0.73758
+
+## Vui lòng chạy Notebook:
+Santander Customer Satisfaction.ipynb
